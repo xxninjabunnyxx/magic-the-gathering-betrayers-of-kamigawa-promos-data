@@ -1,0 +1,18 @@
+---
+object: set
+id: 34e1a029-1103-4e95-aafb-02949a6780b4
+code: pbok
+name: Betrayers of Kamigawa Promos
+uri: https://api.scryfall.com/sets/34e1a029-1103-4e95-aafb-02949a6780b4
+scryfall_uri: https://scryfall.com/sets/pbok
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apbok&unique=prints
+released_at: '2005-02-04'
+set_type: promo
+card_count: 2
+parent_set_code: bok
+digital: false
+nonfoil_only: false
+foil_only: true
+block_code: chk
+block: Kamigawa
+icon_svg_uri: https://svgs.scryfall.io/sets/bok.svg?1694404800
